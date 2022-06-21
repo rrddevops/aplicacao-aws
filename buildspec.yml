@@ -1,0 +1,18 @@
+version: 0.2
+phases:
+  pre_build:
+    commands:
+      - echo Insalando Dependencias
+      - npm install
+  build:
+    commands:
+      - echo Build Iniciado em `date "+%Y-%m-%d %H:%M"`
+      - npm run build
+  post_build:
+    commands:
+      - echo Build Finalizado em `date "+%Y-%m-%d %H:%M"`
+artifacts:
+  files:
+    - build/**/*
+    - appspec.yml
+    - Scripts/**/*
