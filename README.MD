@@ -2,6 +2,9 @@
 
 Veja o arquivo AWS.pdf ou o vídeo tutorial no Youtube. 
 
+[![AWS DevOps - Construindo projeto completo](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/jDjfvar3v8I "AWS DevOps - Construindo projeto completo")
+
+
 Install Git
 
 Install Vscode
