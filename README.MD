@@ -32,7 +32,3 @@ sudo service codedeploy-agent start
 sudo systemctl start httpd.service
 sudo systemctl enable httpd.service
 ```
-
-#Qual região estiver https://docs.aws.amazon.com/codedeploy/latest/userguide/resource-kit.html#resource-kit-bucket-names
-
-
