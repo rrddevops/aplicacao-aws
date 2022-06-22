@@ -3,8 +3,11 @@
 Veja o arquivo AWS.pdf ou o vídeo tutorial no Youtube. 
 
 Install Git
+
 Install Vscode
+
 Create account IAM
+
 Create Repo CodeCommit
 
 Abrir o GitBash
