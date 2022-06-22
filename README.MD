@@ -2,7 +2,7 @@
 
 Veja o arquivo AWS.pdf ou o vídeo tutorial no Youtube. 
 
-[![AWS DevOps - Construindo projeto completo](https://i9.ytimg.com/vi/jDjfvar3v8I/maxresdefault.jpg))](https://youtu.be/jDjfvar3v8I "AWS DevOps - Construindo projeto completo")
+[![AWS DevOps - Construindo projeto completo](https://i9.ytimg.com/vi/jDjfvar3v8I/maxresdefault.jpg?time=1655865300000&sqp=CNT_yZUG&rs=AOn4CLDm5FAdqQMed955tQ2362gQrslq3w)](https://youtu.be/jDjfvar3v8I "AWS DevOps - Construindo projeto completo")
 
 
 Install Git
